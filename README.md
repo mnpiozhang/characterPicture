@@ -19,7 +19,10 @@
 
 example:
 
+俺的老脸:
 
-![我的老脸](http://niubidian.top/media/pic/2017/02/19/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%AD%97%E7%AC%A6%E7%94%BB.jpg)
+![我的老脸](https://github.com/mnpiozhang/characterPicture/blob/master/example/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%AD%97%E7%AC%A6%E7%94%BB.jpg)
 
-![doge](http://niubidian.top/media/pic/2017/02/19/dogecharpic.jpg)
+doge:
+
+![doge](https://github.com/mnpiozhang/characterPicture/blob/master/example/dogecharpic.jpg)
