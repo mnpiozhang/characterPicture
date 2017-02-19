@@ -19,8 +19,7 @@
 
 example:
 
-俺的老脸:
+
 ![我的老脸](http://niubidian.top/media/pic/2017/02/19/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%AD%97%E7%AC%A6%E7%94%BB.jpg)
 
-doge:
 ![doge](http://niubidian.top/media/pic/2017/02/19/dogecharpic.jpg)
